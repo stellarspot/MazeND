@@ -1,0 +1,5 @@
+levels:
+  - name: Maze 2D
+    dimension: 2
+  - name: Maze 3D
+    dimension: 3
